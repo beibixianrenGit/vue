@@ -27,15 +27,3 @@ components: {
 import uniIcons from "@/components/uni-icons/uni-icons.vue"
 components: {uniIcons},
 <uni-icons color="#ccc" type="forward" size="24"></uni-icons>
-
-2020.02.10  日报
-搭建开发环境
-完成订单列表页面
-完成订单详情页面
-
-2020.02.11  日报
-名字修改统一，添加注释
-完成保单页面
-2020.02.12  日报
-调整页面样式细节
-完善页面跳转
